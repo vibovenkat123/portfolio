@@ -2,7 +2,7 @@ export const bio = {
   firstName: "Vaibhav",
   lastName: "Venkat",
   email: "vibovenkat@gmail.com",
-  slogan: "let's find the sand that's right for you",
+  slogan: "Vaibhav Venkat",
   blogDescription: "a blog about sand",
   separator: "-",
   birthYear: 2010,
