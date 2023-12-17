@@ -14,7 +14,7 @@ export function Article({ title, md }: { title: string; md: string }) {
     >
       <motion.h1
         variants={parentVariants}
-        className="pt-8 font-serif font-normal italic"
+        className="pt-7 font-serif font-normal"
       >
         {title} <br />
         {/* <span className="font-sans text-muted-foreground text-xs font-light">
